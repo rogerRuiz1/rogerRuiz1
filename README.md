@@ -217,17 +217,7 @@ When you click on a link it will submit a new issue with the desired move, creat
 </details>
 
 <details>
-  <summary>Top 10 most moves across all games</summary>
-<!-- BEGIN TOP MOVES -->
 
-| Total moves |  User  |
-| :---------: | :----- |
-| 19 | [@trinib](https://github.com/trinib) |
-| 14 | [@JayantGoel001](https://github.com/JayantGoel001) |
-| 3 | [@Sabyasachi-Seal](https://github.com/Sabyasachi-Seal) |
-| 1 | [@teotoniojr](https://github.com/teotoniojr) |
-
-<!-- END TOP MOVES -->
 
 </details>
 </details><h5 align="center">
